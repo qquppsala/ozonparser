@@ -1,0 +1,9 @@
+# environment.yaml
+
+name: par_sel 
+dependencies:
+  - python>=3.8
+  - anaconda
+  - pip
+  - pip:
+    - -r file:requirements.txt
