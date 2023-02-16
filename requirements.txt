@@ -1,6 +1,6 @@
 Pillow
 PySocks
-async-generator
+# async-generator
 attrs
 beautifulsoup4
 certifi
